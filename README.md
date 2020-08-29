@@ -1,5 +1,6 @@
 # AXIOS-TODO_list
-We simulate a TODO list with an API 
+We simulate a TODO list with a simulated API. 
+
 For trying the program please choose any of the following names:
 * Bret
 * Antonette 
