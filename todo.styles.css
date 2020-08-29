@@ -1,0 +1,37 @@
+body {
+    background-color: #a113f838;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #393b44;
+
+}
+
+section {
+    height: 80vh;
+    width: 80vw;
+    text-align: center;
+    padding: 15px;
+    background-color: #f1f3f8;
+    overflow: scroll;
+}
+
+h1 { 
+    width: fit-content;
+    font-family: 'Raleway', sans-serif;
+    border-bottom: 2px solid #8d93ab;
+    margin: 0 auto;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+
+}
+
+
+.list-item {
+    padding: 15px;
+    background-color: #fabea7;
+
+}
